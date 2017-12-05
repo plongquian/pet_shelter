@@ -8,6 +8,9 @@ Welcome to Pet Shelter's documentation!
 
    pets/index
    training/index
+   events/index
+   fostering/index
+   volunteer/index
 
 
 
