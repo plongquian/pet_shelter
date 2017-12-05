@@ -12,6 +12,7 @@ Welcome to Pet Shelter's documentation!
    fostering/index
    volunteer/index
    adoption/index
-
+   pet_supplies/index
+   
 
 
