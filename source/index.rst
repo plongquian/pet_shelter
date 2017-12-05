@@ -7,7 +7,7 @@ Welcome to Pet Shelter's documentation!
    :caption: Contents:
 
    pets/index
-   training/index
+   training2/index2
    events/index
    fostering/index
    volunteer/index

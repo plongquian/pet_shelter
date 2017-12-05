@@ -12,9 +12,9 @@ source is better for you and the overall pet population.
    :maxdepth: 2
    :caption: Contents:
 
-   cats/index
-   dogs/index
-   other_animals/index
+   cats
+   dogs
+   other_animals
 
 
 
