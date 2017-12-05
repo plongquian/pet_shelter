@@ -16,6 +16,6 @@ more on what we have to offer down below
    :maxdepth: 2
    :caption: Contents:
 
-   Behavior
-   Classes
-   Helpful Tips
+   behavior
+   classes
+   helpful_tips
