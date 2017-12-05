@@ -1,0 +1,15 @@
+Fostering Animals
+=================
+
+Many times we will reach capacity at our shelter and we will need people to foster animals temporarily until either they find their forever home
+or space is freed up at the shelter. Either way this is one of the most helpful ways that you can get involved. Typically you will be fostering 
+no more than 2 animals at a time for anywhere from a few days to a few months. We are always in need of new foster families and would love to 
+meet with you and talk more about this program. Below you can find more information on being a foster family for our shelter in addition below
+you can find the requirements for foster families as well as the application. The application process is very important for us and our animals.
+We want to ensure that we find the right families for the right animals here at Simpson College Pet Shelter. If you hae any questions or would like
+more information about our fostering program please contact Peggy Richardson at peggy.henderson@SCPS.com or call her at 515-877-9087.
+
+`Foster Family Guidelines`
+  _Foster Family Guidelines: 
+`Foster Family Application`
+  _Foster Family Application:
