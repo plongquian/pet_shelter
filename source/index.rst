@@ -11,6 +11,7 @@ Welcome to Pet Shelter's documentation!
    events/index
    fostering/index
    volunteer/index
+   adoption/index
 
 
 
