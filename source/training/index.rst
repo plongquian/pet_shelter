@@ -18,6 +18,6 @@ educational programs.  Read more on what we have to offer down below
    :maxdepth: 2
    :caption: Contents:
 
-   behavior2
-   classes2
-   helpful_tips2
+   behavior
+   classes
+   helpful_tips
