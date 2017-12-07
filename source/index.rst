@@ -13,6 +13,7 @@ Welcome to Pet Shelter's documentation!
    volunteer/index
    adoption/index
    pet_supplies/index
-   
-
+   lost_and_found/index
+   vaccinations/index
+   contact_about/index
 
