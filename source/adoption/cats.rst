@@ -2,7 +2,7 @@
 Cats
 ====
 
-.. figure:: dogtraining.png
+.. figure:: normancat.png
     :width: 50%
 
     Need a cuddly, furry friend? Adopt a cat today!
@@ -12,9 +12,7 @@ We have kittens, adolescents, and adult cats, and they each
 possess unique personalities. 
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+
 
 
 

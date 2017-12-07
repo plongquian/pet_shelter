@@ -2,7 +2,7 @@
 Other Animals
 =============
 
-.. figure:: dogtraining.png
+.. figure:: normancat.png
     :width: 50%
 
     Non-Shedding Friends 
@@ -12,9 +12,7 @@ brown or white fur? Don't worry, we offer these animals to
 be adopted as well. Turtles, bunnies, and guinea pigs can
 be found here at our pet shelter!
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+
 
 
 
