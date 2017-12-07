@@ -16,6 +16,7 @@ Welcome to Simpson College Pet Shelter
    pet_supplies/index
    vaccinations/index
    contact_about/index
+   donations/index
    
 
 

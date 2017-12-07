@@ -7,7 +7,7 @@ Simpson College Pet Shelter's mission.
 
 We were started in 1958 with the intent to help any of the abandoned animals in the vicinity of the Simpson College campus. We have the hope that Indianola residents and Simpson College students will adopt for our location.
 
-
+Our primary goal for 2018 is to have every single one of our animals adopted. Be sure to look out for events and deals to happen throughout the year. Our first event will be on February 2nd at the Simpson College Pet Shelter. This will be a "Pet Shelter Bowl", in honor of the Super Bowl 52. Be sure to come out and check out all of the animals the Simpson College Pet Shelter has to offer that day. Also, stay tuned for the rest of the events being planned for 2018. 
 
 Contact
 =======
