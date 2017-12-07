@@ -1,6 +1,6 @@
 
-Welcome to Pet Shelter's documentation!
-=======================================
+Welcome to Simpson College Pet Shelter
+======================================
 
 .. toctree::
    :maxdepth: 2
