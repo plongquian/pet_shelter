@@ -2,9 +2,6 @@
 Other Animals
 =============
 
-.. figure:: normancat.png
-    :width: 50%
-
     Non-Shedding Friends 
 
 Looking for a pal that won't coat your house in a layer of 

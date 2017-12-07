@@ -1,6 +1,5 @@
-
-Welcome to Simpson College Pet Shelter
-======================================
+Simpson College Pet Shelter
+===========================
 
 Welcome!
 --------
@@ -26,6 +25,11 @@ Changing the lives of animals in need.
 Simpson College Pet Shelter serves people and pets from central
 Iowa through pet adoption, pet education, behavior training, vet
 resources, and the fostering process.
+
+Stay Connected
+--------------
+If you would like to be updated on our latest events, tips, and 
+even adoption deals, follow us on our social media accounts!
 
 
 .. toctree::
