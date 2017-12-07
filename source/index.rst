@@ -16,6 +16,7 @@ Welcome to Pet Shelter's documentation!
    pet_supplies/index
    vaccinations/index
    contact_about/index
+   donations/index
    
 
 
