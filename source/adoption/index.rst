@@ -24,6 +24,11 @@ are all searching for the same things: love and a family of their
 own. Adoption is not just the right thing to do; it is a reward
 that keeps on giving.
 
+Simpson College Pet Shelter makes the adoption process seamless, as
+we are right by your side every step of the way. If you are interested
+in more information, please visit our About page where you will find
+our phone number, email address, our location, and our hours.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
