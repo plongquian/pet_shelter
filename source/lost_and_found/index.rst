@@ -25,12 +25,12 @@ Finding a lost pet.
 Preventing lost pets.
 ---------------------
 
-These steps can keep your pets safe and reduce the likelihood that they will become lost or stolen.
-* Have your pet microchipped.
-* Make sure your pet is wearing a collar and ID tag.
-* Spay/ neuter your pet.
-* Keep your pets indoors, and supervise their time outside.
-* Keep them safe when you are out and about.
-* Keep updated photos of your pets. 
+ These steps can keep your pets safe and reduce the likelihood that they will become lost or stolen.
+ * Have your pet microchipped.
+ * Make sure your pet is wearing a collar and ID tag.
+ * Spay/ neuter your pet.
+ * Keep your pets indoors, and supervise their time outside.
+ * Keep them safe when you are out and about.
+ * Keep updated photos of your pets. 
 
 
