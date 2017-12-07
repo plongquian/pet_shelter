@@ -5,14 +5,14 @@ Welcome to Pet Shelter's documentation!
 Lost & Found
 ============
 
- Found a stray pet?
- ------------------
+Found a stray pet?
+------------------
  * Check for ID. If there is an ID, contact the owner immediately.
  * Check .._a link: http://www.iowapetalert.com. This website checks for lost pet posts in Iowa.
  * Contact your local law enforcement agency.
 
- Finding a lost pet.
- -------------------
+Finding a lost pet.
+-------------------
 
  These steps can help you find your lost pet as soon as possible. 
  * Spread the word and search.
@@ -22,8 +22,8 @@ Lost & Found
  * Encourage your pet to return home. 
  * Do not give up.
 
- Preventing lost pets.
- ---------------------
+Preventing lost pets.
+---------------------
 
  These steps can keep your pets safe and reduce the likelihood that they will become lost or stolen.
  * Have your pet microchipped.

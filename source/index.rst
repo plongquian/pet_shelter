@@ -37,6 +37,7 @@ resources, and the fostering process.
    pet_supplies/index
    vaccinations/index
    contact_about/index
+   donations/index
    
 
 
