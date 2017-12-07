@@ -11,6 +11,11 @@ possess unique personalities.
 .. figure:: normancat.png
     :width: 50%
 
+Martin
+------
+Meet Martin! Martin is a male Domestic Longhair who is 2 years
+old.
+
 
 
 
