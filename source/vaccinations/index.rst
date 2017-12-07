@@ -3,8 +3,8 @@
    :maxdepth: 2
    :caption: Contents:
 
-  Vaccinations
-  ============
+Vaccinations
+============
 
   
 

@@ -14,5 +14,8 @@ Welcome to Pet Shelter's documentation!
    adoption/index
    lost_and_found/index
    pet_supplies/index
+   vaccinations/index
+   contact_about/index
+   
 
 
