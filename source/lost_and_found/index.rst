@@ -1,20 +1,24 @@
 
 Lost & Found
 ============
-Losing or finding a pet can be a stressful time. Be Sure to look at the following steps to ensure you are doing everything possible to find or give someone back their pet. 
+*Losing or finding a pet can be a stressful time. Be Sure to look at the following steps to ensure you are doing everything possible to find or give someone back their pet.* 
 
 Found a stray pet?
 ------------------
-  Follow these steps when finding a stray. 
-   * Check for ID. If there is an ID, contact the owner immediately.
-   * Check .._a link: http://www.iowapetalert.com. This website checks for lost pet posts in Iowa.
+  **Follow these steps when finding a stray.**
+   * Check for an ID. If there is an ID, contact the owner immediately.
+   * Check out this `website`_ which checks for lost pet posts in Iowa.
    * Contact your local law enforcement agency.
 
+.. image:: id.jpg
+	:width: 20%
+
+.. _website: http://www.iowapetalert.com
 
 Finding a lost pet.
 -------------------
 
-  These steps can help you find your lost pet as soon as possible. 
+  **These steps can help you find your lost pet as soon as possible.** 
    * Spread the word and search.
    * Visit animal shelters and impound facilities.
    * Use online resources.
@@ -25,7 +29,7 @@ Finding a lost pet.
 Preventing lost pets.
 ---------------------
 
-  These steps can keep your pets safe and reduce the likelihood that they will become lost or stolen.
+  **These steps can keep your pets safe and reduce the likelihood that they will become lost or stolen.**
    * Have your pet microchipped.
    * Make sure your pet is wearing a collar and ID tag.
    * Spay/ neuter your pet.

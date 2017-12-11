@@ -2,6 +2,9 @@
 Adoption
 ========
 
+.. figure:: home.png
+	:width: 60%
+
 Why Should You Adopt?
 ---------------------
 
@@ -13,7 +16,7 @@ You will save money. You'll get a healthy, vet-checked pet.
 You will receive ongoing help from Simpson College Pet Shelter 
 whenever it is needed.
 
-You will feel better. 
+*You will feel better.*
 
 When you adopt, you are giving the pet the second chance that
 it deserves. Not only are you helping your new friend, but you 
@@ -26,16 +29,17 @@ that keeps on giving.
 
 Simpson College Pet Shelter makes the adoption process seamless, as
 we are right by your side every step of the way. If you are interested
-in more information, please visit our About page where you will find
+in more information, please visit our `About`_ page where you will find
 our phone number, email address, our location, and our hours.
+
+.. _About: file:///C:/Users/annie.stolte/Documents/pet_shelter/build/html/contact_about/index.html
+
+Find a Pet
+----------
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    cats
    dogs
    other_animals
-
-
-
