@@ -12,7 +12,7 @@ Cat Adoption Prices
 ======================== =======
 Cats                      
 ======================== =======
-Kittens under 1 year old $75.00
+Kittens under 1-year-old $75.00
 Cats                     $50.00
 Bonded Pair              $85.00
 ======================== =======

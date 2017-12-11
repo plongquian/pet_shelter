@@ -13,7 +13,7 @@ Dog Adoption Prices
 ======================== =======
 Dogs                     Price 
 ======================== =======
-Puppies under 1 year old $175.00
+Puppies under 1-year-old $175.00
 Dogs                     $125.00
 Dogs older than 6 years  $50.00
 Bonded Pair              $215.00
