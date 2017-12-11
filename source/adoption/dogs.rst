@@ -14,13 +14,24 @@ Tank
 .. figure:: tank.png
     :width: 50%
 
-This is Tank. He is a St. Bernard puppy who is 9 months old. He came
-to us from a family who realized that this pup was going to outgrow
-their home quickly. Tank is sweet, and loves to play as any young puppy
-does. He will do best in a home with a lot of room to play. He loves 
-children too, and is very gentle around them.
+This is Tank. He came to us from a family who realized that this pup 
+was going to outgrow their home very quickly. Since he is only a puppy,
+he has yet to be neutered.
 
-*LIST OF TRAITS*
+**Pet Details:**
+	* Type: Puppy
+	* Breed: Saint Bernard
+	* Sex: Male
+	* Age: 9 months
+	* Color: White with brown and black spots
+	* Weight: 63 lbs.
+	* Spayed/Neutered: No
+
+**Personality Details:**
+	* Extremely sweet and gentle.
+	* Loves to play like any puppy does.
+	* Loves to be around children.
+	* Will do best in a home that has a lot of room to run around.
 
 Chase
 -----
@@ -28,13 +39,24 @@ Chase
 .. figure:: chase.png
     :width: 50%
 
-Meet our sweet boy Chase. Chase is a black lab who is 5 years old. He 
-is one of our older animals in the shelter, but that doesn't seem to 
-slow him down. He loves to play fetch more than any other four-legged
-friend we have looked after. Chase is a smaller male, so he will do well
-in any size of home.
+Meet our sweet boy Chase. He is one of our older animals in the 
+shelter, but that doesn't seem to slow him down. He loves to play fetch
+more than any other four-legged friend we have looked after.
 
-*LIST OF TRAITS*
+**Pet Details:**
+	* Type: Dog
+	* Breed: Labrador Retriever
+	* Sex: Male
+	* Age: 5 years
+	* Color: Black
+	* Weight: 66 lbs.
+	* Spayed/Neutered: Yes
+
+**Personality Details:**
+	* Extremely loyal.
+	* Loves to play fetch and tug-of-war.
+	* Loves to exercise.
+	* Smaller male, so we will do well in any size of home.
 
 Piper
 -----
@@ -42,10 +64,21 @@ Piper
 .. figure:: piper.png
     :width: 50%
 
-Piper is one of our pups that has a background in training. She has a long
-list of tricks that she is already able to do, and has extremely good 
-behavior. She takes a little time to adjust to new people, and gets nervous
-around children. She would do better in a home with more mature individuals,
-and that has lots of good places to nap.
+Piper is one of our pups that has a background in training. She came to
+us from a couple who was moving to an elderly home and was not allowed
+to have dogs. She is used to quieter environments.
 
-*LIST OF TRAITS*
+**Pet Details:**
+	* Type: Dog
+	* Breed: Jack Russell Terrier
+	* Sex: Female
+	* Age: 1 year
+	* Color: White with brown spots
+	* Weight: 12 lbs.
+	* Spayed/Neutered: Yes
+
+**Personality Details:**
+	* Very smart, and has a long list of tricks she can do.
+	* Very well-behaved indoors and outdoors.
+	* Nervous around children, and takes time to adjust to new people.
+	* Will do best in a home with more mature individuals.

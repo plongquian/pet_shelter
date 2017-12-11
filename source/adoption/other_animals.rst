@@ -2,7 +2,7 @@
 Other Animals
 =============
 
-    Non-Shedding Friends 
+Non-Shedding Friends 
 
 Looking for a pal that won't coat your house in a layer of 
 brown or white fur? Don't worry, we offer these animals to
@@ -15,12 +15,23 @@ Snap
 .. figure:: snap.png
     :width: 50%
 
-Snap is our turtle we hang out with at the shelter. He is a 
-Red Ear Slider that loves to swim more than anything. You will
-commonly find him in the water, but he also loves to explore the
-floor. We take him out of his tank for about an hour each day to
-let him roam. Make sure to keep an eye on him though, because
-this guy is not as slow as you would think.
+Snap is our turtle we hang out with at the shelter. You will commonly 
+find him in the water, but we take him out of his tank for about an hour 
+each day to let him roam. Make sure to keep an eye on him though, 
+because this guy is not as slow as you would think.
+
+**Pet Details:**
+	* Type: Turtle
+	* Breed: Red Ear Slider
+	* Sex: Male
+	* Age: 4.5 years
+	* Color: Green with red stripes by the ear
+	* Weight: 3 lbs.
+
+**Personality Details:**
+	* Loves to swim more than anything.
+	* Enjoys exploring the floor of his environment.
+	* Needs exercise outside of his tank.
 
 Dixie
 -----
@@ -28,13 +39,24 @@ Dixie
 .. figure:: dixie.png
     :width: 50%
 
-Meet Dixie! She is a Mini Rex rabbit who is covered in cute black
-spots. She is very shy, and needs to be adopted by someone who has
-experience with rabbits. She loves to snack on hay and sniff fingers.
-We recommend that Dixie goes to a home that is equipped with an area
-where she can hop around for a period of time each day. She has lots
-of energy and will be very happy in a place where she can exercise.
+Meet Dixie! She is very shy, and needs to be adopted by someone who has
+experience with rabbits. We recommend that Dixie goes to a home that is
+equipped with an area where she can hop around for a period of time 
+each day.
 
+**Pet Details:**
+	* Type: Rabbit
+	* Breed: Mini Rex
+	* Sex: Female
+	* Age: 2 years
+	* Color: White with black spots
+	* Weight: 6.8 lbs.
+
+**Personality Details:**
+	* Very shy.
+	* Loves healthy snacks - carrots, lettuce, spinach
+	* Needs daily exercise because of high energy levels
+	* Will do best in a home that has rabbit experience.
 
 Squints
 -------
@@ -42,12 +64,23 @@ Squints
 .. figure:: squints.png
     :width: 50%
 
-Squints is commonly referred to as fur ball here. He is a Silver Fox 
-rabbit who is friendly, but does not like fast movements. You must be
-very gentle when handling this little guy. When we say that this guy
-loves to snack, we aren't kidding. He will eat anything you put in his 
-cage, but we highly recommend to only give him things that rabbits 
-should eat!
+Squints is commonly referred to as fur ball here. He is friendly, but 
+does not like fast movements. You must be very gentle when handling this
+little guy. 
+
+**Pet Details:**
+	* Type: Rabbit
+	* Breed: Silver Fox
+	* Sex: Male
+	* Age: 4 years
+	* Color: Black and grey
+	* Weight: 7.2 lbs.
+
+**Personality Details:**
+	* Friendly.
+	* Gets nervous around fast movements, so needs to be handled gently.
+	* Loves to eat.
+	* Will do best in a home with more mature individuals.
 
 Chubbs
 ------
@@ -55,9 +88,21 @@ Chubbs
 .. figure:: chubbs.png
     :width: 50%
 
-This is our guinea pig, Chubbs. He is very social, and they love the 
-company of either other guinea pigs or people. He does very well 
-with all types of animals. Chubbs is also very vocal and loves to 
-chatter his teeth and squeak. He does this during the night at points,
-so we recommend not putting his cage in the same room where people
-will be sleeping. 
+This is our guinea pig, Chubbs. He is very social and vocal. He loves to
+chatter his teeth and squeak. He sometimes does this during the night,
+so we recommend not putting his cage in the same room where people will
+be sleeping. 
+
+**Pet Details:**
+	* Type: Guinea Pig
+	* Breed: Abyssinian
+	* Sex: Male
+	* Age: 8 months
+	* Color: Tricolor
+	* Weight: 2.1 lbs.
+
+**Personality Details:**
+	* Very social and love the company of other guinea pigs or people.
+	* Does well with all types of animals.
+	* Very vocal - has a tendency to talk during the night.
+	* Will do well in any type of home.

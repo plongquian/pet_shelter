@@ -15,8 +15,10 @@ on vaccinations and other pet-health topics, our fostering
 process, and the events that we host here at our shelter!
 
 We also have a variety of animals who are looking for their 
-forever home. Stop by our Adoption page to explore what types 
+forever home. Stop by our `Adoption`_ page to explore what types 
 of dogs, cats, and smaller pets we have in our facility. 
+
+.. _Adoption: file:///C:/Users/annie.stolte/Documents/pet_shelter/build/html/adoption/index.html 
 
 We are so glad you are here, and look forward to working with you!
 
