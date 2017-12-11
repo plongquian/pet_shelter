@@ -2,21 +2,19 @@
 Other Animals
 =============
 
-Non-Shedding Friends 
+**Our Non-Shedding Friends** 
 
 Looking for a pal that won't coat your house in a layer of fur? 
-Don't worry, we offer these animals to be adopted as well. Turtles, 
-bunnies, and guinea pigs can be found here at our pet shelter!
+Don't worry, we offer these types of animals to be adopted as well. 
+Turtles, bunnies, and guinea pigs can be found here at our pet shelter!
 
 Other Animal Adoption Prices
 ----------------------------
 ======================== =======
 Animal                   Price
 ======================== =======
-Rabbits                   $45.00
-======================== =======              
+Rabbits                   $45.00              
 Guinea Pigs               $15.00                   
-======================== =======
 Turtles                   $15.00
 ======================== =======
 
@@ -64,8 +62,8 @@ each day.
 	* Weight: 6.8 lbs.
 
 **Personality Details:**
-	* Loves healthy snacks - carrots, lettuce, spinach
-	* Needs daily exercise because of high energy levels
+	* Loves healthy snacks - carrots, lettuce, spinach.
+	* Needs daily exercise because of high energy levels.
 	* Very shy, so will do best in a home that has rabbit experience.
 
 Squints
@@ -74,9 +72,9 @@ Squints
 .. figure:: squints.png
     :width: 50%
 
-Squints is commonly referred to as fur ball here. He is friendly, but 
+Squints is commonly referred to as "Fur Ball" here. He is friendly, but 
 does not like fast movements. You must be very gentle when handling this
-little guy. 
+little guy, or else he loses trust very quickly.
 
 **Pet Details:**
 	* Type: Rabbit
@@ -88,8 +86,8 @@ little guy.
 
 **Personality Details:**
 	* Gets nervous around fast movements, so needs to be handled gently.
-	* Loves to eat.
-	* Friendly, so will do best in a home with more mature individuals.
+	* Loves to eat, but please don't feed him harmful things!
+	* Tends to become nervous around lots of activity, so will do best in a home with more mature individuals.
 
 Chubbs
 ------
@@ -111,15 +109,6 @@ be sleeping.
 	* Weight: 2.1 lbs.
 
 **Personality Details:**
-	* Very social and love the company of other guinea pigs or people.
+	* Very social and loves the company of other guinea pigs or people.
 	* Very vocal - has a tendency to talk during the night.
 	* Will do well in any type of home with other pets.
-
-Find a Pet
-----------
-
-.. toctree::
-   :maxdepth: 2
-
-   cats
-   dogs

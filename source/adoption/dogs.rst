@@ -2,7 +2,7 @@
 Dogs
 ====
 
-Everyone Needs a Man's Best Friend
+**Everyone Needs a Man's Best Friend**
 
 Is there anything better than being greeted by a wagging tail
 when you get home from work? No, there isn't. We have plenty
@@ -15,7 +15,7 @@ Dogs                     Price
 ======================== =======
 Puppies under 1-year-old $175.00
 Dogs                     $125.00
-Dogs older than 6 years  $50.00
+Dogs older than 6 years   $50.00
 Bonded Pair              $215.00
 ======================== =======
 
@@ -26,8 +26,8 @@ Tank
     :width: 50%
 
 This is Tank. He came to us from a family who realized that this pup 
-was going to outgrow their home very quickly. Since he is only a puppy,
-he has yet to be neutered.
+was going to outgrow their home very quickly. He is known to us as our
+"Gentle Giant." Since he is only a puppy, he has yet to be neutered.
 
 **Pet Details:**
 	* Type: Puppy
@@ -41,8 +41,8 @@ he has yet to be neutered.
 **Personality Details:**
 	* Extremely sweet and gentle.
 	* Loves to play like any puppy does.
-	* Loves to be around children.
-	* Will do best in a home that has a lot of room to run around.
+	* Enjoys being around children.
+	* Will do best in a home that has a lot of room both indoors and outdoors to run around.
 
 Chase
 -----
@@ -50,7 +50,7 @@ Chase
 .. figure:: chase.png
     :width: 50%
 
-Meet our sweet boy Chase. He is one of our older animals in the 
+Meet our sweet boy Chase. He is one of the older animals in the 
 shelter, but that doesn't seem to slow him down. He loves to play fetch
 more than any other four-legged friend we have looked after.
 
@@ -66,7 +66,7 @@ more than any other four-legged friend we have looked after.
 **Personality Details:**
 	* Extremely loyal.
 	* Loves to play fetch and tug-of-war.
-	* Loves to exercise.
+	* Loves to exercise and go on walks.
 	* Smaller male, so we will do well in any size of home.
 
 Piper
@@ -76,8 +76,8 @@ Piper
     :width: 50%
 
 Piper is one of our pups that has a background in training. She came to
-us from a couple who was moving to an elderly home and was not allowed
-to have dogs. She is used to quieter environments.
+us from a couple who was moving to an elderly home where pets are not
+allowed. She is used to quieter environments.
 
 **Pet Details:**
 	* Type: Dog
@@ -85,20 +85,11 @@ to have dogs. She is used to quieter environments.
 	* Sex: Female
 	* Age: 1 year
 	* Color: White with brown spots
-	* Weight: 12 lbs.
+	* Weight: 12.3 lbs.
 	* Spayed/Neutered: Yes
 
 **Personality Details:**
 	* Very smart, and has a long list of tricks she can do.
-	* Very well-behaved indoors and outdoors.
+	* Very well-behaved both indoors and outdoors.
 	* Nervous around children, and takes time to adjust to new people.
 	* Will do best in a home with more mature individuals.
-
-	Find a Pet
-----------
-
-.. toctree::
-   :maxdepth: 2
-
-   cats
-   other_animals

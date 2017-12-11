@@ -4,9 +4,11 @@ Simpson College Pet Shelter
 .. figure:: animaladopt.png
     :width: 100%
 
-Welcome!
---------
-Welcome to Simpson College Pet Shelter! Here you will find information 
+Welcome
+-------
+**Welcome to Simpson College Pet Shelter!** 
+
+Here you will find information 
 on the process of adopting a new, furry friend! As you navigate through 
 our site, you will notice we offer help with the adoption process, how 
 to get involved with our shelter, tips and tricks on training your new 
@@ -34,6 +36,13 @@ Stay Connected
 --------------
 If you would like to be updated on our latest events, tips, and 
 even adoption deals, follow us on our social media accounts!
+
+**Social Media Accounts:**
+   * Twitter: @SCPetShelter
+   * Instagram: @SCPetShelter
+   * Facebook: Simpson College Pet Shelter
+   * Snapchat: SCPetShelter
+
 
 Site Contents:
 --------------

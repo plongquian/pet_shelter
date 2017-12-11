@@ -1,7 +1,7 @@
 Cats
 ====
 
-Need a cuddly, furry friend? Look no further, adopt a cat today!
+**Need a cuddly, furry friend? Look no further, adopt a cat today!**
 
 We have a wide range of purring pets available at our shelter.
 We have kittens, adolescents, and adult cats, and they each 
@@ -24,7 +24,7 @@ Martin
     :width: 50%
 
 Meet Martin! He is extremely smart, sweet, and silly. He enjoys sleeping 
-in the sun, playing with laser pointers, and to eat! He loves to meet 
+in the sun, playing with laser pointers, and loves to eat! He loves to meet 
 new people, and is not shy when it comes to greeting others with a good 
 rub to the ankle.
 
@@ -39,9 +39,9 @@ rub to the ankle.
 	* Declawed: Yes
 
 **Personality Details:**
-	* Extremely smart, sweet, and silly
-	* Very outgoing
-	* Will do well in a home with or without children
+	* Extremely smart, sweet, and silly.
+	* Very outgoing.
+	* Will do well in a home with or without children.
 
 Polly
 ------
@@ -64,9 +64,9 @@ still needs to be spayed and declawed.
 	* Declawed: No
 
 **Personality Details:**
-	* Cuddly and loves to sleep in laps
-	* Takes time to adjust to new people
-	* Very smart and loves to play
+	* Cuddly and loves to sleep in laps.
+	* Takes time to adjust to new people.
+	* Very smart and loves to play.
 	* Will do well in any home after she adjusts.
 
 Rascal and Rebel
@@ -111,11 +111,3 @@ must be adopted as a pair.*
 	* Very smart and well-behaved.
 	* Will do better in a home with more mature individuals.
 
-Find a Pet
-----------
-
-.. toctree::
-   :maxdepth: 2
-
-   dogs
-   other_animals
