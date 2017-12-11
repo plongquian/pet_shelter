@@ -4,10 +4,21 @@ Other Animals
 
 Non-Shedding Friends 
 
-Looking for a pal that won't coat your house in a layer of 
-brown or white fur? Don't worry, we offer these animals to
-be adopted as well. Turtles, bunnies, and guinea pigs can
-be found here at our pet shelter!
+Looking for a pal that won't coat your house in a layer of fur? 
+Don't worry, we offer these animals to be adopted as well. Turtles, 
+bunnies, and guinea pigs can be found here at our pet shelter!
+
+Other Animal Adoption Prices
+----------------------------
+======================== =======
+Animal                   Price
+======================== =======
+Rabbits                   $45.00
+======================== =======              
+Guinea Pigs               $15.00                   
+======================== =======
+Turtles                   $15.00
+======================== =======
 
 Snap
 ----
@@ -53,10 +64,9 @@ each day.
 	* Weight: 6.8 lbs.
 
 **Personality Details:**
-	* Very shy.
 	* Loves healthy snacks - carrots, lettuce, spinach
 	* Needs daily exercise because of high energy levels
-	* Will do best in a home that has rabbit experience.
+	* Very shy, so will do best in a home that has rabbit experience.
 
 Squints
 -------
@@ -77,10 +87,9 @@ little guy.
 	* Weight: 7.2 lbs.
 
 **Personality Details:**
-	* Friendly.
 	* Gets nervous around fast movements, so needs to be handled gently.
 	* Loves to eat.
-	* Will do best in a home with more mature individuals.
+	* Friendly, so will do best in a home with more mature individuals.
 
 Chubbs
 ------
@@ -103,6 +112,14 @@ be sleeping.
 
 **Personality Details:**
 	* Very social and love the company of other guinea pigs or people.
-	* Does well with all types of animals.
 	* Very vocal - has a tendency to talk during the night.
-	* Will do well in any type of home.
+	* Will do well in any type of home with other pets.
+
+Find a Pet
+----------
+
+.. toctree::
+   :maxdepth: 2
+
+   cats
+   dogs
