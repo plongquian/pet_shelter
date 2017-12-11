@@ -1,6 +1,9 @@
 Simpson College Pet Shelter
 ===========================
 
+.. figure:: animaladopt.png
+    :width: 100%
+
 Welcome!
 --------
 Welcome to Simpson College Pet Shelter. Here you will find
