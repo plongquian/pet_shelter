@@ -7,10 +7,10 @@ Found a stray pet?
 ------------------
   Follow these steps when finding a stray. 
    * Check for ID. If there is an ID, contact the owner immediately.
-   * Check .._a link: http://www.iowapetalert.com. This website checks for lost pet posts in Iowa.
+   * Check `Iowa Pet Alert`_  which checks for lost pet posts in Iowa.
    * Contact your local law enforcement agency.
 
-
+_ ..IowaPetAlert_: http://www.iowapetalert.com
 Finding a lost pet.
 -------------------
 
