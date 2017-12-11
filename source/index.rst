@@ -25,7 +25,7 @@ We are so glad you are here, and look forward to working with you!
 
 Our Purpose
 -----------
-Changing the lives of animals in need.
+*Changing the lives of animals in need.*
 
 Simpson College Pet Shelter serves people and pets from central
 Iowa through pet adoption, pet education, behavior training, vet
@@ -36,10 +36,10 @@ Stay Connected
 If you would like to be updated on our latest events, tips, and 
 even adoption deals, follow us on our social media accounts!
 
-
+Site Contents:
+--------------
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    pets/index
    training/index
