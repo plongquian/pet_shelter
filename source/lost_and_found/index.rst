@@ -10,7 +10,8 @@ Found a stray pet?
    * Check `Iowa Pet Alert`_  which checks for lost pet posts in Iowa.
    * Contact your local law enforcement agency.
 
-_ ..IowaPetAlert_: http://www.iowapetalert.com
+.. _IowaPetAlert: http://www.iowapetalert.com
+
 Finding a lost pet.
 -------------------
 
