@@ -8,6 +8,17 @@ Is there anything better than being greeted by a wagging tail
 when you get home from work? No, there isn't. We have plenty
 of pups and dogs that are looking for their forever home. 
 
+Dog Adoption Prices
+-------------------
+======================== =======
+Dogs                     Price 
+======================== =======
+Puppies under 1 year old $175.00
+Dogs                     $125.00
+Dogs older than 6 years  $50.00
+Bonded Pair              $215.00
+======================== =======
+
 Tank
 ----
 
@@ -82,3 +93,12 @@ to have dogs. She is used to quieter environments.
 	* Very well-behaved indoors and outdoors.
 	* Nervous around children, and takes time to adjust to new people.
 	* Will do best in a home with more mature individuals.
+
+	Find a Pet
+----------
+
+.. toctree::
+   :maxdepth: 2
+
+   cats
+   other_animals

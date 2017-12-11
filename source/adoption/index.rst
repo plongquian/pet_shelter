@@ -34,28 +34,6 @@ our phone number, email address, our location, and our hours.
 
 .. _About: file:///C:/Users/annie.stolte/Documents/pet_shelter/build/html/contact_about/index.html
 
-Adoption Prices
----------------
-
-The prices for adopting an Animal from Simpson College Pet Shelter 
-vary from animal to animal, and also if the animals are bonded 
-together and need to be adopted as a pair.
-
-================== ======
-Pets being Adopted Price 
-================== ======
-Dogs               $35.00
-Cats               $25.00
-Rabbits            $20.00
-Guinea Pigs        $18.00
-Turtles            $15.00
-Bonded Dogs        $60.00
-Bonded Cats        $40.00
-Bonded Rabbits     $35.00
-Bonded Guinea Pigs $30.00
-Bonded Turtles     $25.00
-================== ======
-
 Find a Pet
 ----------
 
@@ -65,6 +43,3 @@ Find a Pet
    cats
    dogs
    other_animals
-
-
-
