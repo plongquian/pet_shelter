@@ -111,11 +111,4 @@ must be adopted as a pair.*
 	* Very smart and well-behaved.
 	* Will do better in a home with more mature individuals.
 
-Find a Pet
-----------
 
-.. toctree::
-   :maxdepth: 2
-
-   dogs
-   other_animals

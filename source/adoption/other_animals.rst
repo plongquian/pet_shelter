@@ -10,14 +10,13 @@ bunnies, and guinea pigs can be found here at our pet shelter!
 
 Other Animal Adoption Prices
 ----------------------------
+
 ======================== =======
 Animal                   Price
 ======================== =======
-Rabbits                   $45.00
-======================== =======              
-Guinea Pigs               $15.00                   
-======================== =======
-Turtles                   $15.00
+Rabbits                  $45.00
+Guinea Pigs              $15.00
+Turtles                  $15.00
 ======================== =======
 
 Snap
@@ -114,12 +113,3 @@ be sleeping.
 	* Very social and love the company of other guinea pigs or people.
 	* Very vocal - has a tendency to talk during the night.
 	* Will do well in any type of home with other pets.
-
-Find a Pet
-----------
-
-.. toctree::
-   :maxdepth: 2
-
-   cats
-   dogs
