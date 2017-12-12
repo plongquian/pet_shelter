@@ -49,7 +49,6 @@ Site Contents:
 .. toctree::
    :maxdepth: 2
 
-   pets/index
    training/index
    events/index
    fostering/index
