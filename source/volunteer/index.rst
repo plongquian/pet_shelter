@@ -8,6 +8,7 @@ Volunteering with rescue animals can be some of the most gratifying volunteer wo
 Below we have all of the different ways you can get involved!
 
 * We are always in need of volunteers to come and play with our animals at the shelter! See below for times available!
-* If you are capable, we also accept gifts in the form of cash, check, or credit card, as well as gifts of dog or cat food, toys, leashes and collars! Learn more on our `Donations` page.
-  _Donations: /donations
+* If you are capable, we also accept gifts in the form of cash, check, or credit card, as well as gifts of dog or cat food, toys, leashes and collars! Learn more on our `Donations`_ page.
 * We welcome groups to come and volunteer for the day at the shelter! Please contact us for more information, if you are interested.
+
+.. _Donations: donations/index.html
