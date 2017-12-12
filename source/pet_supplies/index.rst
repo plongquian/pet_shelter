@@ -1,8 +1,4 @@
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 Pet Supplies
 ============
 In general, no matter what animal anyone adopts there are specific necessities one needs to take care of an animal. Some are more obvious than others. But, here are what we think are the most important supplies to have for your animal **before** you come pick them up for adoption. 

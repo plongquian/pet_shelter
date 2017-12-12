@@ -8,8 +8,8 @@ Adoption
 Why Should You Adopt?
 ---------------------
 
-There are an abundant amount of reasons as to why adopting a pet 
-from a shelter rather than buying from a breeder or another
+There are an abundant amount of reasons for why you should adopt 
+a pet from a shelter rather than buying from a breeder or another
 source is better for you and the overall pet population.
 You will change a life of the pet. You will get a great animal.
 You will save money. You'll get a healthy, vet-checked pet. 
@@ -34,7 +34,7 @@ our phone number, email address, our location, and our hours.
 
 .. _About: file:///C:/Users/annie.stolte/Documents/pet_shelter/build/html/contact_about/index.html
 
-Adopt a Pet
+Find a Pet
 ----------
 
 .. toctree::
