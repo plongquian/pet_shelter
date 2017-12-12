@@ -94,11 +94,3 @@ to have dogs. She is used to quieter environments.
 	* Nervous around children, and takes time to adjust to new people.
 	* Will do best in a home with more mature individuals.
 
-	Find a Pet
-----------
-
-.. toctree::
-   :maxdepth: 2
-
-   cats
-   other_animals

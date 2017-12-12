@@ -9,13 +9,13 @@ possess unique personalities.
 
 Cat Adoption Prices
 -------------------
-======================== =======
-Cats                      
-======================== =======
+======================== ======
+Cats                     Price 
+======================== ======
 Kittens under 1-year-old $75.00
 Cats                     $50.00
 Bonded Pair              $85.00
-======================== =======
+======================== ======
 
 Martin
 ------
@@ -111,11 +111,4 @@ must be adopted as a pair.*
 	* Very smart and well-behaved.
 	* Will do better in a home with more mature individuals.
 
-Find a Pet
-----------
 
-.. toctree::
-   :maxdepth: 2
-
-   dogs
-   other_animals
